@@ -8,7 +8,7 @@ Whitespace is an esoteric programming language where code is written using only 
 
 ## Prerequisites
 
-To execute the programs in this repository, you can use an online Whitespace interpreter such as [this one](https://naokikp.github.io/wsi/whitespace.html).
+To execute the programs in this repository, you can use an online Whitespace interpreter such as [this one](https://ideone.com/l/whitespace).
 
 ## Execution Instructions
 
