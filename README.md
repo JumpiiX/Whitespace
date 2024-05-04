@@ -8,16 +8,31 @@ Whitespace is an esoteric programming language where code is written using only 
 
 ## Prerequisites
 
-To execute the programs in this repository, you need to have a Whitespace interpreter installed on your system. You can find one [here](https://esolangs.org/wiki/Whitespace_interpreter).
+To execute the programs in this repository, you can use an online Whitespace interpreter such as [this one](https://naokikp.github.io/wsi/whitespace.html).
 
 ## Execution Instructions
 
 ### For "Hello World" Program:
 
 1. Download the `hello.ws` file from the `src` directory in this repository.
-2. Open a terminal or command prompt.
-3. Navigate to the directory where `hello.ws` is located.
-4. Execute the following command:
+2. Open the file in a text editor or copy its contents.
+3. Paste the code into the online Whitespace interpreter.
+4. Run the interpreter to see the output.
+
+### For Simple Calculator Program:
+
+1. Download the `calc.ws` file from the `src` directory in this repository.
+2. Open the file in a text editor or copy its contents.
+3. Paste the code into the online Whitespace interpreter.
+4. Run the interpreter to see the output.
+
+## Note:
+
+Whitespace files (.ws) are not displayed in the GitHub preview. They will appear as empty or with minimal content in the code view. However, you can still download the files and view their contents using a text editor or other suitable software.
+
+## Cloning the Repository
+
+To clone this repository, use the following command:
 
 ```bash
-whitespace_interpreter hello.ws
+git clone https://github.com/JumpiiX/Whitespace
