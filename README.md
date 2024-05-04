@@ -1,6 +1,6 @@
 # Whitespace Programs
 
-This repository contains two programs written in Whitespace: a "Hello World" program and a simple calculator.
+This repository contains a "Hello World" program written in Whitespace 
 
 ## Description
 
