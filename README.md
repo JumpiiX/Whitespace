@@ -25,6 +25,3 @@ To clone this repository, use the following command:
 
 ```bash
 git clone https://github.com/JumpiiX/Whitespace
-
-```plaintext
-Language: Python
